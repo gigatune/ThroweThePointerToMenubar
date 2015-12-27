@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ThrowThePointerToMenubar.xcodeproj">
+      location = "self:/Users/tommy/Documents/develop/ThrowThePointerToMenubar/ThrowThePointerToMenuBar.xcodeproj">
    </FileRef>
 </Workspace>

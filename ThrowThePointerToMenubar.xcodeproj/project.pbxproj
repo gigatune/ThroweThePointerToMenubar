@@ -33,7 +33,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		652E4A021C2E7556000E17BC /* ThrowThePointerToMenubar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThrowThePointerToMenubar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		652E4A021C2E7556000E17BC /* ThrowThePointerToMenuBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThrowThePointerToMenuBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		652E4A051C2E7556000E17BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		652E4A071C2E7556000E17BC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		652E4A091C2E7556000E17BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -85,7 +85,7 @@
 		652E4A031C2E7556000E17BC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				652E4A021C2E7556000E17BC /* ThrowThePointerToMenubar.app */,
+				652E4A021C2E7556000E17BC /* ThrowThePointerToMenuBar.app */,
 				652E4A131C2E7556000E17BC /* ThrowThePointerToMenubarTests.xctest */,
 				652E4A1E1C2E7556000E17BC /* ThrowThePointerToMenubarUITests.xctest */,
 			);
@@ -125,9 +125,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		652E4A011C2E7556000E17BC /* ThrowThePointerToMenubar */ = {
+		652E4A011C2E7556000E17BC /* ThrowThePointerToMenuBar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 652E4A271C2E7556000E17BC /* Build configuration list for PBXNativeTarget "ThrowThePointerToMenubar" */;
+			buildConfigurationList = 652E4A271C2E7556000E17BC /* Build configuration list for PBXNativeTarget "ThrowThePointerToMenuBar" */;
 			buildPhases = (
 				652E49FE1C2E7556000E17BC /* Sources */,
 				652E49FF1C2E7556000E17BC /* Frameworks */,
@@ -137,9 +137,9 @@
 			);
 			dependencies = (
 			);
-			name = ThrowThePointerToMenubar;
+			name = ThrowThePointerToMenuBar;
 			productName = ThrowThePointerToMenubar;
-			productReference = 652E4A021C2E7556000E17BC /* ThrowThePointerToMenubar.app */;
+			productReference = 652E4A021C2E7556000E17BC /* ThrowThePointerToMenuBar.app */;
 			productType = "com.apple.product-type.application";
 		};
 		652E4A121C2E7556000E17BC /* ThrowThePointerToMenubarTests */ = {
@@ -201,7 +201,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 652E49FD1C2E7555000E17BC /* Build configuration list for PBXProject "ThrowThePointerToMenubar" */;
+			buildConfigurationList = 652E49FD1C2E7555000E17BC /* Build configuration list for PBXProject "ThrowThePointerToMenuBar" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -214,7 +214,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				652E4A011C2E7556000E17BC /* ThrowThePointerToMenubar */,
+				652E4A011C2E7556000E17BC /* ThrowThePointerToMenuBar */,
 				652E4A121C2E7556000E17BC /* ThrowThePointerToMenubarTests */,
 				652E4A1D1C2E7556000E17BC /* ThrowThePointerToMenubarUITests */,
 			);
@@ -278,12 +278,12 @@
 /* Begin PBXTargetDependency section */
 		652E4A151C2E7556000E17BC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 652E4A011C2E7556000E17BC /* ThrowThePointerToMenubar */;
+			target = 652E4A011C2E7556000E17BC /* ThrowThePointerToMenuBar */;
 			targetProxy = 652E4A141C2E7556000E17BC /* PBXContainerItemProxy */;
 		};
 		652E4A201C2E7556000E17BC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 652E4A011C2E7556000E17BC /* ThrowThePointerToMenubar */;
+			target = 652E4A011C2E7556000E17BC /* ThrowThePointerToMenuBar */;
 			targetProxy = 652E4A1F1C2E7556000E17BC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -459,7 +459,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		652E49FD1C2E7555000E17BC /* Build configuration list for PBXProject "ThrowThePointerToMenubar" */ = {
+		652E49FD1C2E7555000E17BC /* Build configuration list for PBXProject "ThrowThePointerToMenuBar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				652E4A251C2E7556000E17BC /* Debug */,
@@ -468,13 +468,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		652E4A271C2E7556000E17BC /* Build configuration list for PBXNativeTarget "ThrowThePointerToMenubar" */ = {
+		652E4A271C2E7556000E17BC /* Build configuration list for PBXNativeTarget "ThrowThePointerToMenuBar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				652E4A281C2E7556000E17BC /* Debug */,
 				652E4A291C2E7556000E17BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		652E4A2A1C2E7556000E17BC /* Build configuration list for PBXNativeTarget "ThrowThePointerToMenubarTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +484,7 @@
 				652E4A2C1C2E7556000E17BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		652E4A2D1C2E7556000E17BC /* Build configuration list for PBXNativeTarget "ThrowThePointerToMenubarUITests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +493,7 @@
 				652E4A2F1C2E7556000E17BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

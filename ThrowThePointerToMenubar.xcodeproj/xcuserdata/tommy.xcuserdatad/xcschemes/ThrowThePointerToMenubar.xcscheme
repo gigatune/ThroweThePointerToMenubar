@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "652E4A011C2E7556000E17BC"
-               BuildableName = "ThrowThePointerToMenubar.app"
-               BlueprintName = "ThrowThePointerToMenubar"
-               ReferencedContainer = "container:ThrowThePointerToMenubar.xcodeproj">
+               BuildableName = "ThrowThePointerToMenuBar.app"
+               BlueprintName = "ThrowThePointerToMenuBar"
+               ReferencedContainer = "container:ThrowThePointerToMenuBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "652E4A121C2E7556000E17BC"
                BuildableName = "ThrowThePointerToMenubarTests.xctest"
                BlueprintName = "ThrowThePointerToMenubarTests"
-               ReferencedContainer = "container:ThrowThePointerToMenubar.xcodeproj">
+               ReferencedContainer = "container:ThrowThePointerToMenuBar.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "652E4A1D1C2E7556000E17BC"
                BuildableName = "ThrowThePointerToMenubarUITests.xctest"
                BlueprintName = "ThrowThePointerToMenubarUITests"
-               ReferencedContainer = "container:ThrowThePointerToMenubar.xcodeproj">
+               ReferencedContainer = "container:ThrowThePointerToMenuBar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,16 +53,16 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "652E4A011C2E7556000E17BC"
-            BuildableName = "ThrowThePointerToMenubar.app"
-            BlueprintName = "ThrowThePointerToMenubar"
-            ReferencedContainer = "container:ThrowThePointerToMenubar.xcodeproj">
+            BuildableName = "ThrowThePointerToMenuBar.app"
+            BlueprintName = "ThrowThePointerToMenuBar"
+            ReferencedContainer = "container:ThrowThePointerToMenuBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "652E4A011C2E7556000E17BC"
-            BuildableName = "ThrowThePointerToMenubar.app"
-            BlueprintName = "ThrowThePointerToMenubar"
-            ReferencedContainer = "container:ThrowThePointerToMenubar.xcodeproj">
+            BuildableName = "ThrowThePointerToMenuBar.app"
+            BlueprintName = "ThrowThePointerToMenuBar"
+            ReferencedContainer = "container:ThrowThePointerToMenuBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "652E4A011C2E7556000E17BC"
-            BuildableName = "ThrowThePointerToMenubar.app"
-            BlueprintName = "ThrowThePointerToMenubar"
-            ReferencedContainer = "container:ThrowThePointerToMenubar.xcodeproj">
+            BuildableName = "ThrowThePointerToMenuBar.app"
+            BlueprintName = "ThrowThePointerToMenuBar"
+            ReferencedContainer = "container:ThrowThePointerToMenuBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
